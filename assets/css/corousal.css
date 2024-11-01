@@ -1,11 +1,11 @@
 
   .slider_container {
     position: relative;
-    padding: 10px;
-    margin-left: 80px;
+    /* padding: 10px; */
+    margin-left: 230px;
     margin-right: 10px;
-    width: 90%;
-    height: 40rem;
+    width: 60%;
+    height: 25rem;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -35,8 +35,8 @@
     position: absolute;
     left: 0;
     bottom: 5%;
-    font-size: 5rem;
-    font-weight: 600;
+    font-size: 3rem;
+    font-weight: 400;
     color: white;
     text-transform: capitalize;
     background: rgba(0, 0, 0, 0.348);
